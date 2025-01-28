@@ -1,2 +1,2 @@
 # BMI
-BMI calculator
+ write a program for BMI calculator
